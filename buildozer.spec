@@ -4,7 +4,7 @@
 title = Test
 
 # (str) Package name
-package.name = kivy
+package.name = kivy_test
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
